@@ -1,5 +1,5 @@
 # job-employment-canada-dashboard
-Using Statistics Canada data, I present you a dashboard which will help to make better decision: <br>
+Using PowerBI & Statistics Canada data, I present you a dashboard which will help to make better decision: <br>
 where you should try to settle and search for your next job?
 
 Dataset URL : https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032601
